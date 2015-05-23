@@ -1,2 +1,2 @@
-# tugas-sekolah
-berisi file - file tugas sekolah
+# tugas KT
+Tugas Pak Rochmat
